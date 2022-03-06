@@ -1,7 +1,9 @@
 {
   "name": "autonameterminal",
   "displayName": "AutoNameTerminal",
-  "description": "",
+  "description": "Creates a terminal with the folder name of target",
+  "repository": "https://github.com/aspectum/auto-name-terminal-vscode",
+	"publisher": "aspectum",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.65.0"
